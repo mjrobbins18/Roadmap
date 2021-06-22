@@ -13,7 +13,6 @@ Please note, this is a work in progress. We need to link the lessons here to the
 
 * Create a back end API in mockapi or contentful and consume it
 
----
 
 ## Unit 2: Full-Stack Development
 
