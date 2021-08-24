@@ -60,6 +60,10 @@ Python, Django, Ruby, Rails, PHP, Laravel, Java, C#, GO, Rust, Dart, React, Angu
 
 ## Capstone
 
+If your SEI program has a capstone project, feel free to choose any of these options.
+
+If your SEI does not have a capstone project, pick one of these to dive into post-course.
+
 Capstone Modules:
 * [MyGA module: Dev Ops, CI/CD, and Automated Testing](https://my.generalassemb.ly/assignments/2d2be555-885e-4996-a3d2-626b0a18eb6d)
 * [MyGA module: Cloud Developer](https://my.generalassemb.ly/assignments/4416cf81-fbb0-4ea7-b013-bcea124f6e18/resume?from=dashboard&assignmentUuid=4416cf81-fbb0-4ea7-b013-bcea124f6e18)
@@ -67,7 +71,7 @@ Capstone Modules:
 
 Additional Capstone Tracks:
 * [React Native](https://gist.github.com/iscott/7c30ff7087a6f5331410e0f276aeccbd)
-* Python, Django, Ruby, Rails, PHP, Laravel, Java, C#, GO, Rust, Dart, React, Angular, Svelte, or Vue: [Polyglot](https://git.generalassemb.ly/SEIR-Advanced-Materials/polyglot)
+* [Python, Django, Ruby, Rails, PHP, Laravel, Java, C#, GO, Rust, Dart, React, Angular, Svelte, or Vue (Polyglot](https://git.generalassemb.ly/SEIR-Advanced-Materials/polyglot)
 * Amazon Web Services (AWS):
   * [AWS w/ Node Part 1](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622814651000)
   * [AWS w/ Node Part 2](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622833443000)
