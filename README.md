@@ -67,7 +67,7 @@ Capstone Modules:
 
 Additional Capstone Tracks:
 * [React Native](https://gist.github.com/iscott/7c30ff7087a6f5331410e0f276aeccbd)
-* [MyGA module: Data structures](https://my.generalassemb.ly/assignments/1942266e-abb0-4379-b988-d91e57f75549)
+* Python, Django, Ruby, Rails, PHP, Laravel, Java, C#, GO, Rust, Dart, React, Angular, Svelte, or Vue: [Polyglot](https://git.generalassemb.ly/SEIR-Advanced-Materials/polyglot)
 * Amazon Web Services (AWS):
   * [AWS w/ Node Part 1](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622814651000)
   * [AWS w/ Node Part 2](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622833443000)
