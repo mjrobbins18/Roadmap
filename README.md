@@ -48,6 +48,9 @@ CS Modules:
 * [MyGA module: Data structures](https://my.generalassemb.ly/assignments/1942266e-abb0-4379-b988-d91e57f75549)
 * [MyGA module: Algorithms](https://my.generalassemb.ly/assignments/ef3ae77a-15d7-4035-b380-c8514d01858c)
 
+Python, Django, Ruby, Rails, PHP, Laravel, Java, C#, GO, Rust, Dart, React, Angular, Svelte, and Vue:
+* [Polyglot](https://git.generalassemb.ly/SEIR-Advanced-Materials/polyglot)
+
 #### Bonus Project Requirements:
 
 * Include one or more relationships in your data models.
