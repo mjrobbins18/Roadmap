@@ -13,6 +13,7 @@ Enjoy!
 * [JavaScript Daily Code Challenges](https://git.generalassemb.ly/SEIR-Advanced-Materials/daily-js-code-challenges) (ongoing throughout course)
 * [Landscaper](https://git.generalassemb.ly/SEIR-Advanced-Materials/landscaper)
 * [Space Battle](https://git.generalassemb.ly/SEIR-Advanced-Materials/space_battle)
+* [Castle Battle](https://git.generalassemb.ly/SEIR-Advanced-Materials/castle_battle/blob/master/README.md)
 * [Corgi jQuery Carousel](https://git.generalassemb.ly/SEIR-Advanced-Materials/corgi-jquery-carousel)
 
 #### Bonus Project Requirements:
