@@ -4,9 +4,11 @@ Welcome to SEI! For students who would like to go above and beyond the baseline 
 
 You can jump into the lessons from any unit any time you want to supplement your learning, these do not need to be done from start to finish.
 
+The order of the units may be different in your SEI, so just find the topic (such as front-end fundamentals) instead of worrying about a unit number.
+
 Enjoy!
 
-## Unit 1: Front-End Fundamentals:
+## Front-End Fundamentals:
 
 * [JavaScript Daily Code Challenges](https://git.generalassemb.ly/SEIR-Advanced-Materials/daily-js-code-challenges) (ongoing throughout course)
 * [Landscaper](https://git.generalassemb.ly/SEIR-Advanced-Materials/landscaper)
@@ -18,7 +20,7 @@ Enjoy!
 * Create a back end API in mockapi or contentful and consume it
 
 
-## Unit 2: Full-Stack Development
+## Full-Stack Development - Node/Express:
 
 Mongodb advanced relationships:
 
@@ -29,7 +31,7 @@ Mongodb advanced relationships:
 
 * Include one or more relationships in your data models.
 
-## Unit 3: React Fundamentals
+## React Fundamentals:
 
 * [React Context](https://reactjs.org/docs/hooks-reference.html#usecontext)
 * [Explore Automated Testing](https://reactjs.org/docs/testing.html)
@@ -40,7 +42,7 @@ Mongodb advanced relationships:
 * Include context in your react app.
 * Set up authentication using JWT tokens between the back end and front end.
 
-## Unit 4: Second Language
+## Second Language:
 
 CS Modules:
 
