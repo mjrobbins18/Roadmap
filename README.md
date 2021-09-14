@@ -23,9 +23,10 @@ Enjoy!
 
 ## Full-Stack Development - Node/Express:
 
+* [Authentication With OAuth (Sign-in with Google)](https://git.generalassemb.ly/SEIR-Advanced-Materials/node-express-oauth)
+
 Mongodb advanced relationships:
 
-* [Authentication With OAuth (Sign-in with Google)](https://git.generalassemb.ly/SEIR-Advanced-Materials/node-express-oauth)
 * [Mongoose Embedding](https://git.generalassemb.ly/SEIR-Advanced-Materials/mongoose-embedded-relationships)
 * [Mongoose Referencing](https://git.generalassemb.ly/SEIR-Advanced-Materials/mongoose-referenced-relationships)
 
