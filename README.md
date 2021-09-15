@@ -23,7 +23,10 @@ Enjoy!
 
 ## Full-Stack Development - Node/Express:
 
+* [Create your own Express Middleware](http://expressjs.com/en/guide/using-middleware.html)
+ * Try creating custom middleware that handles different errors.
 * [Authentication With OAuth (Sign-in with Google)](https://git.generalassemb.ly/SEIR-Advanced-Materials/node-express-oauth)
+* [Build a Node.js CRUD API manually without Express](https://tuts.alexmercedcoder.com/2021/7/full_crud_with_vanilla_node/)
 
 Mongodb advanced relationships:
 
