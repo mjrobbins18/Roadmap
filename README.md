@@ -14,6 +14,7 @@ Enjoy!
 * [Landscaper](https://git.generalassemb.ly/SEIR-Advanced-Materials/landscaper)
 * [Space Battle](https://git.generalassemb.ly/SEIR-Advanced-Materials/space_battle)
 * [Castle Battle](https://git.generalassemb.ly/SEIR-Advanced-Materials/castle_battle/blob/master/README.md)
+* [NYC Opendata jQuery AJAX Lab (Dougie the Donut and Pizza Rat)](https://git.generalassemb.ly/SEIR-Advanced-Materials/nyc-opendata-jquery-ajax-lab)
 * [Corgi jQuery Carousel](https://git.generalassemb.ly/SEIR-Advanced-Materials/corgi-jquery-carousel)
 
 #### Bonus Project Requirements:
