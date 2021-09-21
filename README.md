@@ -24,6 +24,7 @@ Enjoy!
 
 ## Full-Stack Development - Node/Express:
 
+* [First Contact (Lab)](https://git.generalassemb.ly/SEIR-Advanced-Materials/first-contact)
 * [Create your own Express Middleware](http://expressjs.com/en/guide/using-middleware.html)
   * Try creating custom middleware that handles different errors.
 * [Build a Node.js CRUD API manually without Express](https://tuts.alexmercedcoder.com/2021/7/full_crud_with_vanilla_node/)
